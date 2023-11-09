@@ -37,8 +37,10 @@ const Footer = () => {
         </div>
       </div>
       <div className="mt-40 lg:mt-10 pb-10 font-montserrat font-medium text-center">
-        created by
-        <a href="github.com/Deekshithratho" className="font-bold underline">
+        created by{" "}
+        <a
+          href="https://github.com/Deekshithrathod"
+          className="font-bold underline">
           Deekshith
         </a>
         <div className="font-poppins text-xs font-normal mt-3">
