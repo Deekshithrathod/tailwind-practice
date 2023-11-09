@@ -2,7 +2,7 @@ import ContactUs from "./ContactUs";
 
 const Footer = () => {
   return (
-    <div className="bg-[#100E1D] text-white mt-20">
+    <div className="bg-[#100E1D] text-white mt-20" id="footer">
       <div className="p-12 flex flex-col gap-y-16 lg:flex-row lg:justify-between lg:max-w-5xl mx-auto lg:px-0">
         <ul className="font-poppins flex flex-col gap-3 text-lg font-normal">
           <li>
@@ -32,7 +32,7 @@ const Footer = () => {
             <img src="twitter.svg" />
           </div>
         </div>
-        <div>
+        <div id="contact">
           <ContactUs />
         </div>
       </div>

@@ -2,7 +2,7 @@ import { MainHeading } from "./Hero";
 
 const Team = () => {
   return (
-    <div className="mt-24 lg:flex lg:justify-center">
+    <div className="mt-24 lg:flex lg:justify-center" id="team">
       <div className="w-[70%] lg:my-auto">
         <div className="text-xl font-normal text-[#EB5757]">Meet the team</div>
         <MainHeading headline="We are chilled and a laidback team" />

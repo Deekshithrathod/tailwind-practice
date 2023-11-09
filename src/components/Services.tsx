@@ -47,7 +47,7 @@ const Services = () => {
   ];
 
   return (
-    <div className="mt-24">
+    <div className="mt-24" id="services">
       <div className="w-[70%] px-6">
         <MainHeading headline="We offer high demand services" />
       </div>

@@ -1,7 +1,9 @@
 const Testimonials = () => {
   return (
     <>
-      <h3 className="mt-24 font-poppins text-xl font-medium lg:text-4xl lg:w-[90%]">
+      <h3
+        className="mt-24 font-poppins text-xl font-medium lg:text-4xl lg:w-[90%]"
+        id="testimonials">
         “Fast and outstanding resutls. Edie understands their customer's needs.
         They have a young and talented team.”
       </h3>

@@ -46,7 +46,7 @@ const Projects = () => {
   ];
 
   return (
-    <div className="mt-20">
+    <div className="mt-20" id="projects">
       <div className="w-[70%] mx-6">
         <MainHeading headline="Good design means good business" />
       </div>
